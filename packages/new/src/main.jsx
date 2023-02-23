@@ -14,8 +14,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
             <div>
               About
               <br />
-              <a href="/old/#/">Home (Old)</a>
-              <a href="/old/#/about">About (Old)</a>
+              <a href="/#/">Home (Old)</a>
+              <a href="/#/about">About (Old)</a>
             </div>
           }
         />
